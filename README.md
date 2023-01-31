@@ -14,6 +14,7 @@ This exercise needs Microsoft EXCEL.
 
 ## File Description
 The source codes and Data files are as follows:
-- Facebook
+- Data_Visualization with Excel.xlsx
+- Dashboard_Excel.JPG
 ## Discussion
 After completing this exercise, I understand how we can visualize data in different forms to get the important information from the dataset through Excel.
